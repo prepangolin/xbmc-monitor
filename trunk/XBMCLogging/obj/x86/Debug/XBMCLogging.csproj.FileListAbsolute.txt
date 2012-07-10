@@ -1,0 +1,9 @@
+c:\users\amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\XBMCLogging.Form1.resources
+c:\users\amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\XBMCLogging.Properties.Resources.resources
+c:\users\amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\bin\Debug\XBMC Monitor.exe
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\bin\Debug\XBMC Monitor.pdb
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\XBMC Monitor.exe
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Debug\XBMC Monitor.pdb
