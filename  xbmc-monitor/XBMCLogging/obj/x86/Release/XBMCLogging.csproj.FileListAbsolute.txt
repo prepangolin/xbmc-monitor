@@ -1,0 +1,28 @@
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\XBMCLogging.Form1.resources
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\XBMCLogging.Properties.Resources.resources
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Amgad\Documents\Visual Studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.1.exe
+C:\Users\Amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.1.pdb
+C:\Users\Amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\XBMC Monitor 1.1.exe
+C:\Users\Amgad\documents\visual studio 2010\Projects\XBMCLogging\XBMCLogging\obj\x86\Release\XBMC Monitor 1.1.pdb
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMC Monitor 1.1.exe
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMC Monitor 1.1.pdb
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.1.exe
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.1.pdb
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMCLogging.Form1.resources
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMCLogging.Properties.Resources.resources
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\XiVE\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMCLogging.Form1.resources
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMCLogging.Properties.Resources.resources
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.2.exe.config
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.2.exe
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\bin\Release\XBMC Monitor 1.2.pdb
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMC Monitor 1.2.exe
+C:\Users\Amgad\Dropbox\VS2010\XBMCLogging\XBMCLogging\obj\x86\Release\XBMC Monitor 1.2.pdb
